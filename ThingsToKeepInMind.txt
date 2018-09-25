@@ -1,0 +1,49 @@
+"Don't be a hero. Don't have an ego. Always question yourself and your ability. Don't ever feel that you are very good. 
+The second you do, you are dead." - Paul Tudor Jones
+
+Remember: the documentation, not the code, defines what a module does. -- Ken Williams
+
+You can have a second computer once you’ve shown you know how to use the first one. – Paul Barham, on distributed systems
+
+"Complexity is the enemy of all software" - Brian, From StackOverflow
+
+"They all want to be Hank Williams, they don't wanna have to die" - Turnpike
+
+"In designing software, I regard the need to code similar functions in two separate programs as an indication of a 
+fundamental error in my thinking." - Dijkstra
+
+“The most damaging phrase in the language is, ‘It’s always been done that way.’” – Rear Admiral Grace Hopper, United States Navy
+
+"Those who fail to learn history can still manage a 3.0 if they ace their other subjects" - XKCD 998
+
+"A "one size fits all" solution rarely works — avoid building shortcuts for corner cases as there is nothing more permanent than a temporary solution. 
+Lastly, don't oversell a solution. Everything has pros and cons and needs to be adopted with a sense of realism." - Twitter, "The Infrastructure behind Scale"
+
+"You really have to know where to focus the time. Sometimes hardening a test is pretty quick, but often it's hours or even days of time fighting mischievous little issues." - Mark Miller
+
+"Beware, this is the Rabbit Hole of Performance Engineering -- you cannot finish the dive, you can only stop it." - Aleksey Shipilёv (https://shipilev.net/blog/2016/arrays-wisdom-ancients/) 
+"But, most of the time, the straight-forward code is fast enough, so stop philosophizing about angels on the head of a pin, and get back to work." - Aleksey Shipilёv
+
+"Java is a blue collar language. It’s not PhD thesis material but a language for a job." - James Gosling
+
+"perfection is finally attained not when there is no longer more to add, but when there is no longer anything to take away" - Antoine de Saint Exupery
+
+“When you hear hoof beats, think of horses not zebras." - Theodore Woodward
+
+"If you haven't tried it, assume it's broken." - Unknown
+
+"Examine these thoughts, because they are fears about outcomes. You can’t know for sure whether you’ll need to walk the last stretch to the ridge. 
+But this worry is based on your need to know. Break the cycle of those thoughts by being aware of the now. Check your pace, your breathing, your form, foot strike; self-evaluate… 
+The choice you have now, this moment, is how you will run the next fifty feet. Savor the quest, not the finish…
+Being your best is just a choice. learn to look for them [bad thoughts], listen to yourself, realize they’re just thoughts, 
+and that they have no impact on your actions and who you really are — unless you allow it." - Eric Orton
+
+"That said, today's edge case is tomorrow's norm." - Erik Erickson LUCENE-7976
+
+"It is only through labor and painful effort, by grim energy and resolute courage, that we move on to better things." - Theodore Roosevelt
+
+"...superiority lies with he who is reared in the severest school." - Thucydides
+
+"Do what you can, with what you have, where you are." - Teddy Roosevelt
+
+"Quidquid latine dictum sit, altum sonatur. - Whatever is said in Latin sounds profound." - https://github.com/Droogans/unmaintainable-code
