@@ -47,3 +47,5 @@ and that they have no impact on your actions and who you really are — unless y
 "Do what you can, with what you have, where you are." - Teddy Roosevelt
 
 "Quidquid latine dictum sit, altum sonatur. - Whatever is said in Latin sounds profound." - https://github.com/Droogans/unmaintainable-code
+
+"Memorization has always been for chumps.  Application is the primary use of knowledge" - Doug Mann
