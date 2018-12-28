@@ -14,6 +14,7 @@ General knowledge and reads that either need read or have been read
 8. [Read the manifest](https://github.com/jcabi/jcabi-manifests)
 9. [Unable to access the jar's Manifest when using AWS Lambda - SO](https://stackoverflow.com/questions/35639561/aws-lambda-access-to-meta-inf-manifest-mf)
 10. [Unable to access the jar's Manifest when using AWS Lambda - AWS Forum](https://forums.aws.amazon.com/thread.jspa?threadID=226233 )
+11. [jekyll Tutorial](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
 
 ## Good Reads
 [Benchmarking Scala Collections
