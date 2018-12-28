@@ -11,6 +11,9 @@ General knowledge and reads that either need read or have been read
 5. [Lambda Access to Meta-Inf/manifest.mf](https://stackoverflow.com/questions/35639561/aws-lambda-access-to-meta-inf-manifest-mf)
 6. [mysqldump](https://stackoverflow.com/questions/6682916/how-to-take-backup-of-a-single-table-in-a-mysql-database)
 7. [Darwinian Data Structure Selection](https://blog.acolyer.org/2018/12/14/darwinian-data-structure-selection/)
+8. [Read the manifest](https://github.com/jcabi/jcabi-manifests)
+9. [Unable to access the jar's Manifest when using AWS Lambda - SO](https://stackoverflow.com/questions/35639561/aws-lambda-access-to-meta-inf-manifest-mf)
+10. [Unable to access the jar's Manifest when using AWS Lambda - AWS Forum](https://forums.aws.amazon.com/thread.jspa?threadID=226233 )
 
 ## Good Reads
 [Benchmarking Scala Collections
