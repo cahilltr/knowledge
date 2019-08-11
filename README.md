@@ -19,3 +19,4 @@ General knowledge and reads that either need read or have been read
 
 ## Good Reads
 [Benchmarking Scala Collections](http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html)
+[Periodic Table of Data Structures](https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf)
